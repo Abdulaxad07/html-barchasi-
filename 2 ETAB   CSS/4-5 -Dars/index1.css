@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+     width: 100%;
+     height: auto; 
+     background: #E5E5E5;
+ }
+ .banner{ 
+     width: 84%;
+     height: 12222px;
+     background-color: #fff;
+     margin: auto;
+
+ }
+ .banner1{
+    width:951px;
+    height:auto;
+    background-color:
+    #FFFFFF;
+    margin: auto;
+
+ }  
+ .banner1_tic{
+     list-style-type: none;
+     display: flex;
+    align-content:center ;
+  padding-top: 13px;
+ 
+     
+ } 
+
+ .a1{ 
+    left: 17.44%;
+    right: 79.15%;
+    top: 0.69%;
+    bottom: 98.82%;
+    
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    
+    /* Black */
+    
+    color: #070707;
+    
+    
+     
+ }
+ .a2{
+    
+    font-size: 18px;
+    line-height: 22px;
+    margin-left: 165px;
+    color: #828282; 
+    display: flex;
+    
+ }
+ .a3{
+    left: 48.09%;
+    right: 48.99%;
+    top: 0.69%;
+    bottom: 98.82%;
+    margin-left: 165px;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #828282;
+ }
+ .a4{
+    left: 61.71%;
+    right: 33.29%;
+    top: 0.67%;
+    bottom: 99.03%;
+    margin-left: 165px;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #828282;
+    
+ }
+ .a5{
+    left: 77.48%;
+    right: 17.16%;
+    top: 0.69%;
+    bottom: 98.82%;
+   margin-left: 165px;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #828282
+ }
+ .vector{
+    width: 940.6px;
+    height: 0px;
+    left: 250.69px;
+   margin-top:  17.94px;
+    
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+ }
+ .denis{
+     width: 123px;
+     height: 118px;
+    left: 17.37%;
+    right: 74.08%;
+    top: 2.69%;
+    bottom: 94.82%;
+     padding-top: 5px;
+    font-family: Gilroy-Bold;
+    font-size: 47.3392px;
+    line-height: 59px;
+    color: #070707;
+    
+ }
+ .banner_ux{
+    margin-left: 40.49%;
+    margin-right: 42.74%;
+    margin-top: -4.85%;
+    bottom: 95.22%;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    
+    /* Black */
+    
+    color: #070707;
+    
+
+ }
+ .lenguve{ 
+    width: 68px;
+    height: 17.05px;
+    margin-left: 930.25px;
+    margin-top: -60px;
+    
+  
+ }
+ .banner1_img{
+    width: 553.61px;
+    height: 387px;
+    margin-top: 70.94px; 
+    
+    
+ }
+ .banner1_text{
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    margin: auto;
+    margin-top: 224px;
+    color: #070707;
+    
+ }
+ .banner1_text1{
+    width: 485.34px;
+    height: 80px;
+    left: 480.33px;
+   
+    margin: auto;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    /* Black */
+    
+    color: #070707;
+    
+ }
+ .banner1_text2{
+    width: 485.34px;
+    height: 80px;
+    left: 480.33px;
+   
+    margin: auto;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    /* Black */
+    
+    color: #070707;
+ }
+ .banner1_text3{
+    width: 485.34px;
+    height: 80px;
+    left: 480.33px;
+   
+    margin: auto;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    /* Black */
+    
+    color: #070707;
+ }
+ .banner1_skil{
+    margin: auto;
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+ margin-top: 160px;
+/* Black */
+
+color: #070707;
+ }
+ .banner1_work{
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    /* Black */
+    margin-top: 50px;
+    color: #070707;
+ }
+ .banner1_bar{ 
+     width: 100%;
+     display: flex;
+    
+     margin-top: 105px;
+     justify-content: space-between;
+  
+ }
+ .banner2{
+    width: 951px;
+    height: 200px;
+    background-color: red;}

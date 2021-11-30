@@ -1,0 +1,418 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+ 
+@font-face{
+    font-family: MRcavici;
+    src: url(./Caveat-VariableFont_wght.ttf);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navigation{
+    width: 100%;
+    height: 106px;
+}
+
+.container{
+    width: 80%;
+    height: 106px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.container > img{
+    width: 44px;
+    margin-right: 15px;
+}
+
+.nav_collection{
+    display: flex;
+    flex: 1;
+}
+
+.collection_item{
+    list-style-type: none;
+    margin: 0px 20px;
+}
+
+
+.collection_item > a{
+    text-decoration: none;
+    color: #150C01;
+    opacity: 0.6;
+}
+
+.nav_button{
+    width: 155px;
+    height: 46px;
+    border-radius: 5px;
+    border: none;
+    background: #DC780B;
+    color: #fff;
+    font-size: 16px;
+}
+
+.banner{
+    width: 100%;
+    height: 670px;
+  
+}
+
+.banner_wrapper{
+    width: 90%;
+    height: 670px;
+    
+    margin-left: 10%;
+    display: flex;
+}
+
+.banner_image{
+    width: 50%;
+    height: 100%;
+    background-color: purple;
+}
+
+.banner_image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner_text{
+    width: 50%;
+    height: 100%;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner_text > h1{
+    font-family: sans-serif;
+    font-size: 48.83px;
+    line-height: 58px;
+    color: #150C01;
+}
+
+.banner_text > p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #150C01;
+    opacity: 0.7;
+    font-family: sans-serif;
+}
+.banner_buttons{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+
+
+
+color: #FFFFFF;
+   
+}  
+.a1{
+    background: #DC780B;
+    border-radius: 5px; 
+     width: 118px;
+    height: 40px;
+    color: wheat;
+    border: 1px solid gray;
+}
+.a2{
+    border-radius: 5px;  
+     width: 118px; 
+     border: 1px solid gray;
+    height: 40px;
+    color: wheat;
+    color: #DC780B; 
+    margin-left: 30px;
+}
+.banner_1{ 
+    width: 100%;
+     height: 600px;   
+     background-color: black;
+    
+
+}
+.banner1{
+    width: 100%;
+    height: 500px; 
+    background-color: blue;
+    
+
+}
+.Features{
+    width: 99px;
+height: 19px;
+ margin-left:  50%;
+
+
+
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #DC780B;
+
+opacity: 0.7;
+}
+.Food_with{
+width: 352px;
+height: 35px;
+margin-left: 38%;
+font-style: normal;
+font-weight: bold;
+font-size: 31.25px;
+line-height: 35px;
+/* identical to box height */
+text-transform: capitalize;
+color: #150C01;
+}
+.itm{ 
+   margin-top: 0px;
+    width: 80px;
+    height: 80px; 
+    border-radius:50% ;
+    background: #e4e1e1c6;
+    margin-left: 0px; display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.itm_colection{
+     display: flex;
+     list-style-type:  none;
+     align-items: center;
+     justify-content: center;
+     margin-right: 10px;
+     justify-content: space-evenly;
+     flex-wrap: wrap;} 
+     .itm_head{
+        display: flex;
+        list-style-type:  none;
+        align-items: center;
+        justify-content: center;
+        margin-right: 10px;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        font-family: Philosopher;
+       font-style: normal;
+        font-weight: bold;
+         font-size: 25px;
+          line-height: 24px;
+     }
+     .itmhead{
+
+
+     }
+
+     .colection_text{
+          list-style-type: none;
+        margin-top: 15px;
+          font-style: normal;
+        font-weight: normal;
+         font-size: 16px;
+        line-height: 24px;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;  
+        background: #E5E5E5;
+        
+       
+
+        
+     }
+     .itm_text{
+        width: 300px;
+        height: 68px; 
+        text-align: center;}
+        /* .imegopa{
+            width: 786px;
+            height: 567px; 
+            
+            border-radius: 15%;
+          
+              
+
+
+        } */
+        .imegopa1{
+            width: 530px;
+            height: 567px; 
+           border-radius: 10% ;
+           margin-top: 108px;
+           margin-left: 12%;
+
+        }
+
+        .About{ 
+           
+            font-style: normal;`
+             font-weight: 500;
+           font-size: 16px;
+            line-height: 24px;  
+              display: flex;
+       align-items: center;
+       letter-spacing: 0.2em;
+     
+ 
+       color: #DC780B;
+            opacity: 0.7;
+           
+        }
+         .imegtext{
+             width: 50%;
+             height: 567px; 
+             background-color:rgb(236, 236, 230) ;
+             margin-top: 60px;
+             padding-left: 900px;
+             
+
+        
+         }
+         .contener{
+             margin-top: 160px;
+             margin-left:px;
+
+         }
+      
+       .Food_Stalls{
+        width: 487px;
+        height: 112px;
+         font-style: normal;
+         font-weight: bold;
+        font-size: 31.25px;
+         line-height: 41px;
+        color: #150C01;
+        margin-top: 10px;
+
+       }
+       .There{
+        width: 487px;
+        height: 76px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 24px;
+        color: #150C01; 
+        opacity: 0.7;
+        margin-top: 15px;
+
+       }
+       .Read{
+        width: 142px;
+        height: 42px;
+        background: #DC780B;
+        border-radius: 5px;
+        margin-top: 16px; 
+        padding: 9px;
+       }
+       
+/* .love{
+width: 957px;
+height: 801px;
+left: -631.97px;
+top: 1728.24px;
+
+background: linear-gradient(180deg, #DC780B 0%, #DC780B 100%);
+opacity: 0.1;
+
+ color: #DC780B     ;
+border: 1px solid #DC780B;
+transform: rotate(-47.12deg);
+
+} */
+.product_container{
+     width: 80%;
+     height: 1220px;
+     margin: auto;
+     background-color: green;
+     display: flex; 
+     flex-wrap: wrap;
+} 
+.card{ 
+    width: 360px;
+    height: 446px;
+    background-color: red;
+    margin: 15px;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+     border: 1px  solid gray;
+
+}
+.card>img{
+    width: 100%;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+
+
+}
+.hop{
+    margin-top: 1300px;
+
+}
+     
+.card_info{
+    font-family: 'Philosopher', sans-serif;
+    padding: 20px 25px;
+    display: flex;
+}
+.first_h2{
+    flex: 1;
+
+}
+.card_description{
+    font-size: 16px;
+    line-height: 24px;
+    opacity: 0.7;
+    padding: 0px 25px;
+    font-family: 'Roboto', sans-serif;
+}
+.aas{
+    font-family:MRcavici; 
+    
+}
+.card_control > button{
+    width: 36px;
+    height: 36px;
+    border: none;
+    color: #fff;
+    font-size: 25px;
+    background-color: 
+    #DC780B; 
+    margin: auto; 
+
+}
+.card_control{
+    display: flex;
+    justify-content: space-between;
+}
+.card_control>ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 25px;
+
+
+}

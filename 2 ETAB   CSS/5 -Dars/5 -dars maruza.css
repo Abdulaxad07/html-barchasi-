@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+img{
+    width: 700px;
+    height: 400px;
+    /* filter: saturate(100%);  */
+    /* saturate: sariq va qizgish ranglarga yorqinlik beradi default:100%  100%< tasir qiladi */
+     /* filter: brightness(100%); */
+     /* brightness: oq va oq sargish ranglarni va rasimni umumiy yorqinlik darajasini kopaytiradi default:100% */
+     /* filter: contrast(200%); */
+     /* yorqin va qoqramtir ranglarni orasidagi tafovutni oshirib beradi  */
+     /* filter: invert(.1)  ; */
+     /* rentgenga oxshatib efekt beradi */
+     /* filter: opacity(.3); */
+      /* rasimni korinish darajasini bildiradi orqasidagi fon korinib qoladi  kamaytirgan sari  */
+    /* filter: sepia(.9); */
+    /* retro efekt qoshadi */
+    /* filter: drop-shadow(0px 0px 10px  black) ; */
+    /* rasimni ramkasiga soya beradi     */
+    /* box-shadow: 0px 0px 10px  black; */
+     /* filter: hue-rotate(200deg); */
+     /* filter: grayscale(1); */
+     /* grayscale :rasimni kulrang holatida ozgartiradi  */
+     /* filter: blur(1px); */
+     /* bu rasimni va hklarni  hiralashtirib beradi  */
+    /* object-fit: contain; */
+    /* rasim toliq korinadi lekin berilgna razzmerga toliq tushmaydi  */
+    /* object-fit: cover; */
+    /* rasim toliq korinmaydi lekin berilgna razzmerga toliq tushai  */
+
+
+
+
+
+
+} 
+.nav{
+    width: 100%;
+    height: 101px;
+    background-color: rgba(0, 0, 0, 0.816);
+    position: fixed;
+    /* opacity: 19px; */
+    backdrop-filter: blur(1px);
+
+
+}

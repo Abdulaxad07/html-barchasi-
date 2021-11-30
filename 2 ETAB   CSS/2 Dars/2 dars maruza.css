@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+/* flex-wrap */
+.container{                           
+    width: 80%;
+    height: auto;
+    background-color: red; 
+    display: flex;
+    align-items: center;
+    /* flex-direction: row;
+    flex-wrap: wrap-reverse; */     
+    /* flex-flow: row wrap; */
+    justify-content: space-evenly;
+}
+
+.wrapper{
+    background-color: blue;
+    width: 900px;
+    height: auto;
+    display: flex;
+    align-self: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.item{
+    margin: 30px 0px;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+/* .self_container{
+    width: 70%;
+    height: 400px;
+    background-color: dodgerblue;
+    display: flex;
+}
+
+.self_itemone{
+    width: 50%;
+    height: 200px;
+    background-color: green;
+    align-self: center;
+}
+
+.self_itemtwo{
+    width: 50%;
+    height: 200px;
+    background-color: purple;
+} */
+
+/* .basis_container{
+    width: 70%;
+    height: 400px;
+    background-color: royalblue;
+    display: flex;
+}
+
+.basis_item{
+    flex-basis: 300px;
+    height: 200px;
+    background-color: sandybrown;
+} */
+
+/* .grow_container{
+    width: 80%;
+    height: 200px;
+    display: flex;
+    background-color: red;
+}
+
+.grow_itemone{
+    width: 300px;
+    height: 100px;
+    background-color: seagreen;
+    flex-shrink: 3;
+}
+
+.grow_itemtwo{
+    width: 300px;
+    height: 100px;
+    background-color: slateblue;
+    flex-shrink: 2;
+}
+
+.grow_itemthree{
+    width: 300px;
+    height: 100px;
+    flex-shrink: 1;
+    background-color: violet;
+} */
+
+/* flex-flow bu flex-direction va flex-wrap ni bittada yozish usuli */
+/* flex-basis = width o'rniga ham ishlatsa bo'ladi */
+
+/* homework */

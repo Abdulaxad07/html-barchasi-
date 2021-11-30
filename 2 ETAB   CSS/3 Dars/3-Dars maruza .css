@@ -1,0 +1,21 @@
+*{margin: 0;}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+
+}
+.baner{ 
+    width: 28px;
+    height: 40px;
+}
+
+
+
+.praduct_head{
+height: 41px;
+width: 100%; 
+background-color: #A6672B;
+border-radius: 0px;
+color: blue;
+}

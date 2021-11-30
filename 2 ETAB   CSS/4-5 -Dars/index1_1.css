@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.body{
+    width: 1445px;
+    height: 2254px;
+    background: #E5E5E5;
+}
+.banner2{
+    width: 936.24px;
+height: 3510px;
+margin: auto;
+background-color: #F6F6F6;
+
+}
+.head{
+    font-family: Gilroy-Bold;
+font-size: 34px;
+line-height: 42px;
+text-align: center;
+margin: auto; 
+padding-top:42px;
+}
+.banner2_img{
+    width: 936.24px;
+height: 510px;
+padding-top: 47px;
+}
+.banner_word{ 
+    font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+margin: auto;
+margin-top: 54px;
+
+}
+.banner2_img2{
+    width: 936.24px;
+height: 522px;
+padding-top: 79px;
+
+}
+.banner2_word2{font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+     margin-top: 144px;
+    /* Black */
+    
+    color: #070707;
+    }
+    .banner2_img3{
+        
+        width: 936.24px;
+        height: 522px;
+        margin-top: 99px;
+
+    }
+    .banner2_word3{
+        font-family: Gilroy-Medium;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+text-decoration-line: underline;
+margin-top: 55px;
+    }
+    .banner2_tehend{
+        width: 945px;
+height: 759px;
+
+background: #FFFFFF;
+
+    }
+    .name1{
+        font-family: Gilroy-Bold;
+font-size: 34px;
+padding-top: 130px;
+margin: auto;
+align-items: center;
+margin-left: 410px;
+
+
+    }
+    .banner2_info{
+        font-family: Gilroy-Medium;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .banner2_button{
+        font-family: Gilroy-Bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+margin: auto;
+ background-color: black;
+text-align: center;
+margin-top: 40px;
+color: #FFFFFF;
+border-radius: 15px; 
+padding: 4px 16px 4px 17px;
+border: none;
+display: flex;
+
+
+    }
+    .banner2_bar{
+        margin: auto;
+        display: flex;
+        align-items: center;
+        margin-top: 50px;
+        margin-left: 290px;
+    }
+    .teh_end{
+        font-family: Gilroy-Medium;
+        font-size: 14px;
+         line-height: 17px;
+        text-align: center;
+        color: #828282;    
+        margin-top: 45px;  
+    }

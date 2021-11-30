@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation{
+    height: 40px;
+    background-color: #222222;
+}
+.group{
+height: 40px;
+display: flex;
+align-items: center;
+list-style-type: none;
+justify-content: space-evenly;
+font-family: sans-serif;
+
+}
+.group_link{
+    text-decoration: none;
+    color: #fff;
+
+}
+.active{
+    color: green;
+}

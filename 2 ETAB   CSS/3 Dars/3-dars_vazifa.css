@@ -1,0 +1,257 @@
+*{margin: 0;}
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #FFFEF2;
+
+}
+.baner{ 
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.praduct_head{
+height: 41px;
+width: 100%; 
+background-color: #A6672B;
+border-radius: 0px;
+color: #FFFEF2;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.praduct_head1{
+    width: 100%;
+    height: 29px;
+    padding-top: 8px;
+left: calc(50% - 300px/2 + 296px);
+background-color: #252525;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFEF2;
+}   
+.praduct_img{
+width: 100%;
+height: 606px;
+background-image: url(./Rectangle.png);
+}
+.praduct_login{
+    width: 100%;
+    height: 50px;
+    display: flex;
+}
+.praduct_login1{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-content: center;
+
+    text-indent: 20px;
+    
+    margin: px;
+    flex: 1;
+}
+.praduct_login1>p>i{
+    margin-left: 30px;
+    padding-top: -20px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: #FFFEF2;
+}
+..praduct_login1>p>b
+{
+    margin-top: 20px;
+}
+
+.praduct_login2{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    }
+    .praduct_login2>i{
+        margin: 20px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+     font-size: 14px;
+     color: #FFFEF2;} 
+     
+     .praduct_text{
+        Width :394px;
+        Height :200px;
+        /* background-color: limegreen; */
+       margin: 275px 900px 128px 240px;
+       color:  #FFFEF2   ;
+       font-family: sans-serif;
+       line-height: 27.2px;
+       Line-height: 145%;
+       Align: Left;
+       align: Top;
+
+     }
+     .text1{
+        font-family: Roboto;
+        
+        font-size: 30px;
+        line-height: 39.9px;
+        Line-height: 113%;
+        Align: Left;
+         align: Top;
+        Fill: Solid
+        #FFFEF2;
+
+     }
+     .text2{
+         margin-top: 10px;
+        
+       
+        font-size: 16px;
+       
+        Align: Left;
+        align: Top;
+        Fill: Solid
+        #FFFEF2;
+        
+     }
+     .praduct_midil{
+         width: 100%;
+         height: 720px;
+         background-color: maroon;
+         display: flex;
+     }
+     .praduct_imeg1{
+         width: 50%;
+         height: 720px; 
+         background-color: orange;
+         background-image: url(./Rectangle\ \(2\).png);
+     }
+     .praduct_info{
+        width: 50%;
+        height: 720px; 
+        background-color: #CFC7C0;
+        display: flex;
+     }
+     .praduct_infoimg{
+         width: 40%;
+         height: 242px;
+        
+         margin: 239px 40px 239px 40px;
+         background-image: url(./Rectangle\ \(3\).png);
+         font-style: normal;
+         font-family: sans-serif;
+         
+
+     }
+     .praduct_infotext{
+         width: 60%;
+         line-height: 30px;
+         height: 500px;
+         color: #333333;
+         margin: 168px 44px 50px 0px ;
+         font-family: sans-serif;
+         font-weight: 3300;
+     }
+    .praduct_infotext>p{
+        font-size: 5px;
+    }
+
+     
+     .praduct_infotext>p>b{
+        font-family: sans-serif;
+        font-weight: 200;
+        line-height: 22.4px;
+        line-height: 137%;
+        Font-size: 14px;
+
+
+
+     }
+     .zum{ 
+         margin-top: 40px;
+         width: 398px;
+         height: 60px;
+         background-color: 
+         #333333;
+         border: 1px solid gray;
+         color: #FFFEF2;
+     }
+     .sculpt{
+         margin-top: 40px;
+        width: 398px;
+        height: 60px; 
+        background-color: transparent;
+        border: 1px solid gray;
+        color: #333333;
+     }
+     .praduct_enda{
+         width: 100%;
+         height: 500px;
+         background-color: #FFFEF2;
+         display: flex; 
+         margin-top: 70px;
+        
+
+     }
+     .praduct_end1{
+         width: 33.333%;
+         height: 500px;
+         background-color:#FFFEF2; 
+         
+        
+         
+     }
+     .img11{
+     width: 100%;
+     height: 80%;
+     background-color:;
+     background-image: url( ./Rectangle\ .png);
+    
+     }
+     .text11{
+         width: 100%;
+         height: 20% ;
+         background-color:#FFFEF2;
+         margin-left: 60px;
+         text-indent: 10px;
+
+     }
+     .img2{
+        width: 100%;
+        height: 80%;
+        background-color: #FFFEF2;
+        background-image: url(./Rectangle\ \(4\).png);
+       
+        }
+        .text22{
+            width: 50%;
+            height: 20% ;
+            background-color: #FFFEF2;
+            line-height: 30px;
+            text-decoration-style: dotted;
+            text-indent:  68PX;
+            margin-left: 85px;       
+   
+        }
+        .img3{
+            width: 100%;
+            height: 80%;
+            background-color: #FFFEF2;
+            background-image: url(./Rectangle\ \(5\).png);
+           
+            }
+            .text22{
+                width: 100%;
+                height: 20% ;
+                background-color: #FFFEF2;
+       
+            }
